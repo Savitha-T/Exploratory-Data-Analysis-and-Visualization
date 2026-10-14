@@ -80,16 +80,6 @@ Model performance is evaluated using:
 
 **Note:** Refer to the executed notebook for the verified final evaluation metrics.
 
-## 📁 Project Structure
-
-```text
-breast-cancer-eda/
-├── README.md
-├── report.pdf
-├── notebook.ipynb
-├── figures/
-└── results/
-```
 
 Replace the example filenames with the actual filenames uploaded to this repository.
 
